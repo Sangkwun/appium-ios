@@ -106,8 +106,6 @@ export interface RemoteDebuggerOptions {
   logAllCommunicationHexDump?: boolean;
   /** The maximum size in bytes of a single data frame in the device communication protocol */
   webInspectorMaxFrameLength?: number;
-  /** size, in bytes, of chunks of data sent to Web Inspector (real device only) */
-  socketChunkSize?: number;
   fullPageInitialization?: boolean;
   /**
    * How long to wait until a new target is created for a page.
@@ -130,7 +128,6 @@ export interface RpcClientOptions {
   logAllCommunication?: boolean;
   logAllCommunicationHexDump?: boolean;
   webInspectorMaxFrameLength?: number;
-  socketChunkSize?: number;
   fullPageInitialization?: boolean;
   pageLoadTimeoutMs?: number;
   udid?: string;
