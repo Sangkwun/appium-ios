@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.28.7](https://github.com/appium/appium-ios/compare/appium-ios-remotexpc@5.28.6...appium-ios-remotexpc@5.28.7) (2026-11-01)
+
+### Miscellaneous Chores
+
+* **remotexpc:** bump minimatch to v11 ([#143](https://github.com/appium/appium-ios/issues/143)) ([3ebd661](https://github.com/appium/appium-ios/commit/3ebd6619e6b236cdf2fab8475f1004342bc33fef))
+
+
 ## [5.28.6](https://github.com/appium/appium-ios/compare/appium-ios-remotexpc@5.28.5...appium-ios-remotexpc@5.28.6) (2026-10-31)
 
 ### Bug Fixes
